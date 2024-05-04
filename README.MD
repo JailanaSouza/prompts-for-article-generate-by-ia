@@ -3,7 +3,7 @@
 <p align="center">
   <a href="  https://github.com/JailanaSouza/prompts-for-article-generate-by-ia/commit/1a46d3b931f0ad0892ee565074d0343338ccb897">
   </a>
-  <a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash">
+  <a href="https://web.dio.me/articles/a-teoria-do-constante?back=%2Farticles&open-modal=true&page=1&order=oldest">
   </a>
 </p>
 
@@ -11,7 +11,7 @@
 
 <p align="center">
   <img 
-    src=".github/assets/preview.png"
+    src="https://github.com/JailanaSouza/prompts-for-article-generate-by-ia/commit/1a46d3b931f0ad0892ee565074d0343338ccb897"
     width="400"  
   />
 </p>
