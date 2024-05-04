@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src=".github/assets/banner.png">
+  https://github.com/JailanaSouza/prompts-for-article-generate-by-ia/commit/1a46d3b931f0ad0892ee565074d0343338ccb897
 </p>
 
 
@@ -36,33 +36,28 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) - para título e conteúdo
-- [Lexica.art](https://lexica.art/) - para gerar imagens
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) - Para formatação de banners e Layouts
+- [Gemini](https://gemini.google.com/) - para citação.
+- [Copilot](https://copilot.microsoft.com/) - para gerar imagens
 
 ## 📄 Prompts e ferramentas
 
 
-ChatGPT：
+Copilot：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie 10 headlines para nomes de artigos sobre o assunto Angular - Diretivas                                                                                                                                                                                                    |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Autoral                                                                                                                         |
+| conteúdo | Traga citações de livros que falem sobre a evolução humana |
 
+NOTA: O artigo é autoral, optei por pegar apenas as citações de livros pelo Gemini.
 
-Lexica.art：
-
-- No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
-
-• Angular
 
 
 
 ## ✨ Features
 
-- Conteúdo gerado via ChatGPT
-- Imagens do acervo público geradas via Lexica.art
+- Citação e formatação ABNT obtiva através do Gemini
+- Imagens do copilot geradas via prompt
 
 ## 📚 Materiais
 
