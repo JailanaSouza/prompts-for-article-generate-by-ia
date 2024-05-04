@@ -1,14 +1,5 @@
 
 
--------
-
-<p align="center">
-  <img 
-    src="https://github.com/JailanaSouza/prompts-for-article-generate-by-ia/commit/afcc0d99e9edfa06678c091057a5c0b65f81cb4c"
-    width="400"  
-  />
-</p>
-
 # Projeto artigo técnico gerado por I.A.s
 
 
