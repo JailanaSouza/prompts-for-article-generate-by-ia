@@ -1,10 +1,7 @@
-<p align="center">
-  https://github.com/JailanaSouza/prompts-for-article-generate-by-ia/commit/1a46d3b931f0ad0892ee565074d0343338ccb897
-</p>
 
 
 <p align="center">
-  <a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course">
+  <a href="  https://github.com/JailanaSouza/prompts-for-article-generate-by-ia/commit/1a46d3b931f0ad0892ee565074d0343338ccb897">
   </a>
   <a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash">
   </a>
@@ -22,7 +19,7 @@
 # Projeto artigo técnico gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me).
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluna na plataforma da [DIO](https://dio.me).
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=ktfS6qIy7XM" title="Preview do Conteúdo">
